@@ -82,10 +82,10 @@ Figure 6: Simple simulation Circuit
 > - Step 4: Change the resistor's resistance to see if it affects the LED's intensity. 
 
 ```
-**2.2.	Learning Reflection**
+**3.1.	Learning Reflection**
 
 Write a brief note about the results of simulating a simple electric circuit by connecting components directly..
-when a 9V battery is connected with a resister and the resister to switch and the switch to bulb and bulb to battry. the turning the switch  on and off trun the bulb to on and off, 
+when a 9V battery is connected with a resister and the resister to switch and the switch to bulb and bulb to battry. the turning the switch  on and off trun the bulb to on and off, when changing  the value of resister the the bright ness of light also changes. if the resistence is set to 0 the bulb blasts.
 
 
 ```
