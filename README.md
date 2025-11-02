@@ -85,6 +85,7 @@ Figure 6: Simple simulation Circuit
 **2.2.	Learning Reflection**
 
 Write a brief note about the results of simulating a simple electric circuit by connecting components directly..
+when a 9V battery is connected with a resister and the resister to switch and the switch to bulb and bulb to battry. the turning the switch  on and off trun the bulb to on and off, 
 
 
 ```
