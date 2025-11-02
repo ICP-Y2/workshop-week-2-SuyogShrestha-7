@@ -85,8 +85,7 @@ Figure 6: Simple simulation Circuit
 **3.1.	Learning Reflection**
 
 Write a brief note about the results of simulating a simple electric circuit by connecting components directly..
-when a 9V battery is connected with a resister and the resister to switch and the switch to bulb and bulb to battry. the turning the switch  on and off trun the bulb to on and off, when changing  the value of resister the the bright ness of light also changes. if the resistence is set to 0 the bulb blasts.
-
+when a 9V battery is connected with a resister and the resister to switch and the switch to bulb and bulb to battry. the turning the switch  on and off trun the bulb to on and off,
 
 ```
 
@@ -102,6 +101,8 @@ Figure 7: Using a breadboard to connect components.
 **3.2.	Learning Reflection**
 
 Write a brief note on the results observed while changing the resistor’s resistance in the simulation. What about direction of LED connected?
+when changing  the value of resister the the bright ness of light also changes. if the resistence is set to 0 the bulb gets damagae. If the resistance increassed then bright ness of the bulb is decressed.
+
 
 
 ```
